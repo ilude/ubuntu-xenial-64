@@ -1,1 +1,3 @@
-vagrant package --output ubuntu-xenial-64.box
+  vagrant up
+
+  vagrant package --output ubuntu-xenial-64.box
